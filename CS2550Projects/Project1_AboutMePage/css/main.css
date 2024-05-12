@@ -1,0 +1,28 @@
+body {
+    background-image: url("../img/WoodBackground.jpeg");
+    background-repeat: repeat;
+    color: white;
+    font-family: Verdana,sans-serif;
+}
+img {
+    float: right;
+    margin-left: 20px;
+}
+a {
+    color: aqua;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.center-poem {
+    text-align: center;
+}
+th, td {
+    border: 1px solid white;
+}
+
+table {
+    border: 2px solid white;
+    border-collapse: collapse;
+}
