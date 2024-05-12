@@ -22,10 +22,14 @@ th, td {
     border: 1px solid white;
     padding: 3px;
     border-spacing: 3px;
-    text-align: center;
+    text-align: left;
+    vertical-align: top;
+    table-layout: fixed;
 }
 
 table {
+    width: 100%;
     border: 2px solid white;
     border-collapse: collapse;
+    table-layout: fixed;
 }
