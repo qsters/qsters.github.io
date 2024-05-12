@@ -11,6 +11,8 @@
     <list default="true" id="500c39fa-96ed-41ac-83ba-b17b4ccd8219" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project1_AboutMePage/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project1_AboutMePage/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project1_AboutMePage/img/ProfilePic.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project1_AboutMePage/ProfilePic.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project1_AboutMePage/img/WoodBackground.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project1_AboutMePage/WoodBackground.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project1_AboutMePage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project1_AboutMePage/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +75,7 @@
       <recent name="$PROJECT_DIR$/../CS2550Projects/Project1_AboutMePage" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../CS2550Projects/Project1_AboutMePage" />
       <recent name="$PROJECT_DIR$/../CS2550Projects/Project1_AboutMePage/img" />
     </key>
   </component>
@@ -249,7 +252,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715534578933</updated>
-      <workItem from="1715534583541" duration="10266000" />
+      <workItem from="1715534583541" duration="10422000" />
     </task>
     <servers />
   </component>
