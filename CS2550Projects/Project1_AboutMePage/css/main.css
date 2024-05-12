@@ -20,6 +20,9 @@ a:hover {
 }
 th, td {
     border: 1px solid white;
+    padding: 3px;
+    border-spacing: 3px;
+    text-align: center;
 }
 
 table {
