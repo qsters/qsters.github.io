@@ -8,11 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="500c39fa-96ed-41ac-83ba-b17b4ccd8219" name="Changes" comment="First Draft Project 2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project2_AboutMePageCSS/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project2_AboutMePageCSS/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project2_AboutMePageCSS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project2_AboutMePageCSS/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="500c39fa-96ed-41ac-83ba-b17b4ccd8219" name="Changes" comment="Cleaned up, added reflection" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -253,7 +249,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715534578933</updated>
-      <workItem from="1715534583541" duration="17629000" />
+      <workItem from="1715534583541" duration="17914000" />
     </task>
     <task id="LOCAL-00001" summary="Created Project 2">
       <option name="closed" value="true" />
@@ -279,7 +275,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716864957838</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Cleaned up, added reflection">
+      <option name="closed" value="true" />
+      <created>1716866049920</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716866049920</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Cleaned up, added reflection">
+      <option name="closed" value="true" />
+      <created>1716866066868</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716866066868</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,7 +312,8 @@
     <MESSAGE value="Created Project 2" />
     <MESSAGE value="Updated Header" />
     <MESSAGE value="First Draft Project 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Draft Project 2" />
+    <MESSAGE value="Cleaned up, added reflection" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaned up, added reflection" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CS2550Projects$test.coverage" NAME="test Coverage Results" MODIFIED="1716423357464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CS2550Projects" />
