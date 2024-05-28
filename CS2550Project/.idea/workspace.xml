@@ -8,12 +8,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="500c39fa-96ed-41ac-83ba-b17b4ccd8219" name="Changes" comment="Created Project 2">
+    <list default="true" id="500c39fa-96ed-41ac-83ba-b17b4ccd8219" name="Changes" comment="Updated Header">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project1_AboutMePage/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project1_AboutMePage/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project2_AboutMePageCSS/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project2_AboutMePageCSS/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project2_AboutMePageCSS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project2_AboutMePageCSS/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CS2550Projects/test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,7 +253,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715534578933</updated>
-      <workItem from="1715534583541" duration="14046000" />
+      <workItem from="1715534583541" duration="16635000" />
     </task>
     <task id="LOCAL-00001" summary="Created Project 2">
       <option name="closed" value="true" />
@@ -265,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716860254994</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated Header">
+      <option name="closed" value="true" />
+      <created>1716861599650</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716861599650</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,7 +290,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created Project 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Project 2" />
+    <MESSAGE value="Updated Header" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Header" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CS2550Projects$test.coverage" NAME="test Coverage Results" MODIFIED="1716423357464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CS2550Projects" />

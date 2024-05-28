@@ -1,14 +1,9 @@
 body {
     background-image: url("../WoodBackground.jpeg");
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-repeat: repeat;
     color: white;
     font-family: Arial, sans-serif;
     margin: 15px;
-}
-img {
-    float: right;
-    margin-left: 20px;
 }
 a {
     color: aqua;
@@ -20,32 +15,83 @@ a:hover {
 .center-poem {
     text-align: center;
 }
-th, td {
-    border: 1px solid white;
-    padding: 3px;
-    border-spacing: 3px;
-    text-align: left;
-    vertical-align: top;
-    table-layout: fixed;
+
+.profile-picture {
+    width: 400px;
+    float: right;
+    border: 5px solid white;
+    box-shadow: 0 0 10px #000;
 }
 
 table {
     width: 100%;
-    border: 2px solid white;
     border-collapse: collapse;
     table-layout: fixed;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+
+th, td {
+    border: 1px solid white;
+    padding: 10px;
+    text-align: center;
+}
+th {
+    background-color: #444;
+    color: #ddd;
+}
+
+tr:nth-child(odd) {
+    background-color: #333;
+}
+
+tr:nth-child(even) {
+    background-color: #444;
+}
+
+tr:hover {
+    background-color: #555; /* Change color on hover */
+}
+
 
 p {
     text-indent: 20px;
     margin-bottom: 1em;
 }
 
+main h2 {
+    border-bottom: 2px solid white; /* Light grey line */
+    padding-bottom: 10px; /* Adds space between the text and the border */
+    margin-bottom: 20px; /* Adds space below the border */
+}
+
 header h1 {
     font-size: 30pt;
     text-decoration: underline;
-    background-color: gray;
+    background-color: rgba(255, 255, 255, 0.3);
     color: white;
     padding: 10px;
     text-align: center;
+    border-radius: 40px;
+}
+
+.center-div {
+    margin: auto;
+    width: 80%;
+    background: rgba(0,0,0,0.5); /* Semi-transparent background */
+    padding: 20px;
+    box-shadow: 0 0 20px #222; /* Shadow for depth */
+}
+
+.work {
+    background-color: #995FAB;
+}
+
+.honors {
+    background-color: #3B28CC;
+}
+.justice {
+    background-color: #388659;
+}
+.pickle-ball {
+    background-color: #222823;
 }
