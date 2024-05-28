@@ -8,7 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="500c39fa-96ed-41ac-83ba-b17b4ccd8219" name="Changes" comment="Updated Header">
+    <list default="true" id="500c39fa-96ed-41ac-83ba-b17b4ccd8219" name="Changes" comment="First Draft Project 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project2_AboutMePageCSS/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project2_AboutMePageCSS/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project2_AboutMePageCSS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project2_AboutMePageCSS/index.html" afterDir="false" />
@@ -253,7 +253,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715534578933</updated>
-      <workItem from="1715534583541" duration="16635000" />
+      <workItem from="1715534583541" duration="17629000" />
     </task>
     <task id="LOCAL-00001" summary="Created Project 2">
       <option name="closed" value="true" />
@@ -271,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716861599650</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First Draft Project 2">
+      <option name="closed" value="true" />
+      <created>1716864957838</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716864957838</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,7 +299,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created Project 2" />
     <MESSAGE value="Updated Header" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Header" />
+    <MESSAGE value="First Draft Project 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Draft Project 2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CS2550Projects$test.coverage" NAME="test Coverage Results" MODIFIED="1716423357464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CS2550Projects" />

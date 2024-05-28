@@ -49,9 +49,8 @@ tr:nth-child(even) {
 }
 
 tr:hover {
-    background-color: #555; /* Change color on hover */
+    background-color: #555;
 }
-
 
 p {
     text-indent: 20px;
@@ -59,9 +58,9 @@ p {
 }
 
 main h2 {
-    border-bottom: 2px solid white; /* Light grey line */
-    padding-bottom: 10px; /* Adds space between the text and the border */
-    margin-bottom: 20px; /* Adds space below the border */
+    border-bottom: 2px solid white;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 header h1 {
@@ -77,9 +76,9 @@ header h1 {
 .center-div {
     margin: auto;
     width: 80%;
-    background: rgba(0,0,0,0.5); /* Semi-transparent background */
+    background: rgba(0,0,0,0.5);
     padding: 20px;
-    box-shadow: 0 0 20px #222; /* Shadow for depth */
+    box-shadow: 0 0 20px #222;
 }
 
 .work {
@@ -89,9 +88,11 @@ header h1 {
 .honors {
     background-color: #3B28CC;
 }
+
 .justice {
     background-color: #388659;
 }
+
 .pickle-ball {
     background-color: #222823;
 }
