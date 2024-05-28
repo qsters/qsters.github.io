@@ -1,8 +1,10 @@
 body {
     background-image: url("../WoodBackground.jpeg");
-    background-repeat: repeat;
+    background-repeat: no-repeat;
+    background-size: cover;
     color: white;
-    font-family: Verdana,sans-serif;
+    font-family: Arial, sans-serif;
+    margin: 15px;
 }
 img {
     float: right;
@@ -32,4 +34,18 @@ table {
     border: 2px solid white;
     border-collapse: collapse;
     table-layout: fixed;
+}
+
+p {
+    text-indent: 20px;
+    margin-bottom: 1em;
+}
+
+header h1 {
+    font-size: 30pt;
+    text-decoration: underline;
+    background-color: gray;
+    color: white;
+    padding: 10px;
+    text-align: center;
 }

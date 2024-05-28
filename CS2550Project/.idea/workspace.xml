@@ -8,14 +8,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="500c39fa-96ed-41ac-83ba-b17b4ccd8219" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../CS2550Projects/Project2_AboutMePageCSS/ProfilePic.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS2550Projects/Project2_AboutMePageCSS/WoodBackground.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS2550Projects/Project2_AboutMePageCSS/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS2550Projects/Project2_AboutMePageCSS/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS2550Projects/test.py" afterDir="false" />
+    <list default="true" id="500c39fa-96ed-41ac-83ba-b17b4ccd8219" name="Changes" comment="Created Project 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CS2550Projects/.idea/CS2550Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/.idea/CS2550Projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project1_AboutMePage/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project1_AboutMePage/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project2_AboutMePageCSS/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project2_AboutMePageCSS/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project2_AboutMePageCSS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project2_AboutMePageCSS/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS2550Projects/test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,24 +54,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JavaScript Debug.index.html.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/qroot/Documents/School/Summer2024/CS2550_Web/qsters.github.io/CS2550Projects",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/qroot/Documents/School/Summer2024/CS2550_Web/qsters.github.io/CS2550Projects&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../CS2550Projects" />
@@ -257,8 +255,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715534578933</updated>
-      <workItem from="1715534583541" duration="13067000" />
+      <workItem from="1715534583541" duration="14046000" />
     </task>
+    <task id="LOCAL-00001" summary="Created Project 2">
+      <option name="closed" value="true" />
+      <created>1716860254994</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716860254994</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,6 +281,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created Project 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Project 2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CS2550Projects$test.coverage" NAME="test Coverage Results" MODIFIED="1716423357464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CS2550Projects" />
