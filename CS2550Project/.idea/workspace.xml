@@ -8,10 +8,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="500c39fa-96ed-41ac-83ba-b17b4ccd8219" name="Changes" comment="Updated Project Name">
-      <change afterPath="$PROJECT_DIR$/trees_short.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS2550Projects/test.py" afterDir="false" />
+    <list default="true" id="500c39fa-96ed-41ac-83ba-b17b4ccd8219" name="Changes" comment="Began Project 3">
+      <change afterPath="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/img/nebula.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/video/SpaceShuttleLaunch.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +24,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -52,34 +57,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/qroot/Documents/School/Summer2024/CS2550_Web/qsters.github.io/CS2550Project&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/qroot/Documents/School/Summer2024/CS2550_Web/qsters.github.io/CS2550Projects/Project3_ResposiveWebsite/video",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/video" />
+      <recent name="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/../CS2550Projects" />
       <recent name="$PROJECT_DIR$/../CS2550Projects/Project1_AboutMePage" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/css" />
+      <recent name="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/imgs" />
+      <recent name="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/js" />
       <recent name="$PROJECT_DIR$/../CS2550Projects" />
       <recent name="$PROJECT_DIR$/../CS2550Projects/Project1_AboutMePage" />
-      <recent name="$PROJECT_DIR$/../CS2550Projects/Project1_AboutMePage/img" />
     </key>
   </component>
   <component name="RunManager">
@@ -127,6 +137,7 @@
       <workItem from="1715534583541" duration="18492000" />
       <workItem from="1717459248311" duration="9352000" />
       <workItem from="1719108497911" duration="33000" />
+      <workItem from="1719169463282" duration="5831000" />
     </task>
     <task id="LOCAL-00001" summary="Created Project 2">
       <option name="closed" value="true" />
@@ -176,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716866242136</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Began Project 3">
+      <option name="closed" value="true" />
+      <created>1719169595976</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719169595976</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +218,8 @@
     <MESSAGE value="First Draft Project 2" />
     <MESSAGE value="Cleaned up, added reflection" />
     <MESSAGE value="Updated Project Name" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Project Name" />
+    <MESSAGE value="Began Project 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Began Project 3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CS2550Projects$test.coverage" NAME="test Coverage Results" MODIFIED="1716423357464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CS2550Projects" />
