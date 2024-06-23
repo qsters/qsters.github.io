@@ -8,13 +8,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="500c39fa-96ed-41ac-83ba-b17b4ccd8219" name="Changes" comment="Began Project 3">
-      <change afterPath="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/img/nebula.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/video/SpaceShuttleLaunch.mp4" afterDir="false" />
+    <list default="true" id="500c39fa-96ed-41ac-83ba-b17b4ccd8219" name="Changes" comment="Finished project 3">
+      <change afterPath="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/img/EarthImage.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/css/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +61,7 @@
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/qroot/Documents/School/Summer2024/CS2550_Web/qsters.github.io/CS2550Projects/Project3_ResposiveWebsite/video",
+    "last_opened_file_path": "/Users/qroot/Documents/School/Summer2024/CS2550_Web/qsters.github.io/CS2550Projects/Project3_ResposiveWebsite/img",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -78,11 +75,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/img" />
       <recent name="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/video" />
       <recent name="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/../CS2550Projects" />
-      <recent name="$PROJECT_DIR$/../CS2550Projects/Project1_AboutMePage" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/css" />
@@ -137,7 +134,7 @@
       <workItem from="1715534583541" duration="18492000" />
       <workItem from="1717459248311" duration="9352000" />
       <workItem from="1719108497911" duration="33000" />
-      <workItem from="1719169463282" duration="5831000" />
+      <workItem from="1719169463282" duration="6409000" />
     </task>
     <task id="LOCAL-00001" summary="Created Project 2">
       <option name="closed" value="true" />
@@ -195,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719169595976</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Finished project 3">
+      <option name="closed" value="true" />
+      <created>1719176564549</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719176564549</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,7 +224,8 @@
     <MESSAGE value="Cleaned up, added reflection" />
     <MESSAGE value="Updated Project Name" />
     <MESSAGE value="Began Project 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Began Project 3" />
+    <MESSAGE value="Finished project 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished project 3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CS2550Projects$test.coverage" NAME="test Coverage Results" MODIFIED="1716423357464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CS2550Projects" />
