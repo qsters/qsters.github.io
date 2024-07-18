@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const themeToggle = document.getElementById('themeToggle');
     let themeEnabled = false;
     let themeLink = null;
-    console.log("The button has been pressed")
+
     themeToggle.addEventListener('click', () => {
         if (!themeEnabled) {
             themeLink = document.createElement('link');

@@ -2,9 +2,7 @@
  * Dark Theme Modifications:
  * - Implemented a dark color scheme across all elements.
  * - Adjusted text colors for better readability on dark backgrounds.
- * - Updated background images and colors to fit the dark theme.
- * - Modified hover effects and transitions for a more subtle appearance.
- * - Enhanced responsive design elements to maintain usability in dark mode.
+ * - Modified hover effects and transitions.
  */
 
 body {
@@ -30,7 +28,13 @@ main {
 
 .main-content article {
     background: #282828; /* Dark background for articles */
+    box-shadow: 1px 10px 15px 5px rgba(0, 0, 0, 0.5);
 }
+
+.main-content article:hover {
+    transform: scale(1.05) rotate(2deg);
+}
+
 
 footer {
     background-color: #222; /* Consistency in footer background */

@@ -67,6 +67,22 @@ header h1 {
     background-color: #555;
 }
 
+/* Theme Button */
+.theme-toggle {
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: transparent;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.theme-toggle:hover {
+    background-color: #555;
+    transition: background-color 0.3s ease;
+}
+
 /* Main Section */
 main {
     grid-area: main;
@@ -127,6 +143,8 @@ footer {
     text-align: center;
     padding: 10px 0;
 }
+
+
 
 /* Responsive Adjustments */
 @media (max-width: 768px) {
