@@ -1,0 +1,42 @@
+/**
+ * Dark Theme Modifications:
+ * - Implemented a dark color scheme across all elements.
+ * - Adjusted text colors for better readability on dark backgrounds.
+ * - Updated background images and colors to fit the dark theme.
+ * - Modified hover effects and transitions for a more subtle appearance.
+ * - Enhanced responsive design elements to maintain usability in dark mode.
+ */
+
+body {
+    background-color: #121212; /* Dark background for the body */
+    color: #e0e0e0; /* Light text color for better readability */
+}
+
+.navbar {
+    background-color: #222; /* Darker background for navbar */
+}
+
+.navbar a {
+    color: #ccc; /* Lighter text for links */
+}
+
+.navbar a:hover {
+    background-color: #444; /* Dark hover effect */
+}
+
+main {
+    background-color: #181818; /* Dark background for main area */
+}
+
+.main-content article {
+    background: #282828; /* Dark background for articles */
+}
+
+footer {
+    background-color: #222; /* Consistency in footer background */
+}
+
+/* Optional: Modify Responsive Settings to Match Dark Theme */
+@media (max-width: 768px) {
+    /* You can add specific styles for mobile responsiveness under the dark theme here */
+}
