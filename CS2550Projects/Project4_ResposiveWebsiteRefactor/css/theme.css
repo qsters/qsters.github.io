@@ -6,28 +6,28 @@
  */
 
 body {
-    background-color: #121212; /* Dark background for the body */
-    color: #e0e0e0; /* Light text color for better readability */
+    background-color: #121212;
+    color: #e0e0e0;
 }
 
 .navbar {
-    background-color: #222; /* Darker background for navbar */
+    background-color: #222;
 }
 
 .navbar a {
-    color: #ccc; /* Lighter text for links */
+    color: #ccc;
 }
 
 .navbar a:hover {
-    background-color: #444; /* Dark hover effect */
+    background-color: #444;
 }
 
 main {
-    background-color: #181818; /* Dark background for main area */
+    background-color: #181818;
 }
 
 .main-content article {
-    background: #282828; /* Dark background for articles */
+    background: #282828;
     box-shadow: 1px 10px 15px 5px rgba(0, 0, 0, 0.5);
 }
 
@@ -37,10 +37,5 @@ main {
 
 
 footer {
-    background-color: #222; /* Consistency in footer background */
-}
-
-/* Optional: Modify Responsive Settings to Match Dark Theme */
-@media (max-width: 768px) {
-    /* You can add specific styles for mobile responsiveness under the dark theme here */
+    background-color: #222;
 }

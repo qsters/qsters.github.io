@@ -23,7 +23,6 @@ document.addEventListener('DOMContentLoaded', () => {
     showSection('home');
 });
 
-
 document.addEventListener('DOMContentLoaded', () => {
     const themeToggle = document.getElementById('themeToggle');
     let themeEnabled = false;
@@ -34,16 +33,16 @@ document.addEventListener('DOMContentLoaded', () => {
             themeLink = document.createElement('link');
             themeLink.rel = 'stylesheet';
             themeLink.id = 'dark-theme-style';
-            themeLink.href = 'css/theme.css'; // Path to your dark theme CSS file
+            themeLink.href = 'css/theme.css';
             document.head.appendChild(themeLink);
             themeEnabled = true;
-            themeToggle.textContent = 'Switch to Light Theme'; // Update button text
+            themeToggle.textContent = 'Switch to Light Theme';
         } else {
             if (themeLink) {
                 document.head.removeChild(themeLink);
             }
             themeEnabled = false;
-            themeToggle.textContent = 'Toggle Dark Theme'; // Reset button text
+            themeToggle.textContent = 'Toggle Dark Theme';
         }
     });
 });
