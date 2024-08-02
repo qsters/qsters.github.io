@@ -8,12 +8,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="500c39fa-96ed-41ac-83ba-b17b4ccd8219" name="Changes" comment="Fixed files and added toggle">
+    <list default="true" id="500c39fa-96ed-41ac-83ba-b17b4ccd8219" name="Changes" comment="Added Code Disclaimer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project4_ResposiveWebsiteRefactor/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project4_ResposiveWebsiteRefactor/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project4_ResposiveWebsiteRefactor/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project4_ResposiveWebsiteRefactor/css/theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project4_ResposiveWebsiteRefactor/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project4_ResposiveWebsiteRefactor/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project4_ResposiveWebsiteRefactor/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project4_ResposiveWebsiteRefactor/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/css/theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/js/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/js/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/js/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/js/theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/js/validation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/js/validation.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,9 +27,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
-        <option value="HTML File" />
         <option value="TypeScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -56,25 +60,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.index.html.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/qroot/Documents/School/Summer2024/CS2550_Web/qsters.github.io/CS2550Projects",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/qroot/Documents/School/Summer2024/CS2550_Web/qsters.github.io/CS2550Projects&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../CS2550Projects" />
@@ -137,7 +141,9 @@
       <workItem from="1717459248311" duration="9352000" />
       <workItem from="1719108497911" duration="33000" />
       <workItem from="1719169463282" duration="6947000" />
-      <workItem from="1719533932081" duration="4310000" />
+      <workItem from="1719533932081" duration="5266000" />
+      <workItem from="1721871042631" duration="164000" />
+      <workItem from="1722545278526" duration="9835000" />
     </task>
     <task id="LOCAL-00001" summary="Created Project 2">
       <option name="closed" value="true" />
@@ -235,7 +241,47 @@
       <option name="project" value="LOCAL" />
       <updated>1721335373643</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Improved toggle">
+      <option name="closed" value="true" />
+      <created>1721336618554</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1721336618554</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Removed unneeded Comments">
+      <option name="closed" value="true" />
+      <created>1722545372832</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1722545372832</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Started Project 5">
+      <option name="closed" value="true" />
+      <created>1722545443328</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1722545443328</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Refactored JS">
+      <option name="closed" value="true" />
+      <created>1722547481783</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1722547481783</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added Code Disclaimer">
+      <option name="closed" value="true" />
+      <created>1722547726187</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1722547726187</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,10 +310,15 @@
     <MESSAGE value="Added project 4" />
     <MESSAGE value="Refactored css file" />
     <MESSAGE value="Fixed files and added toggle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed files and added toggle" />
+    <MESSAGE value="Improved toggle" />
+    <MESSAGE value="Removed unneeded Comments" />
+    <MESSAGE value="Started Project 5" />
+    <MESSAGE value="Refactored JS" />
+    <MESSAGE value="Added Code Disclaimer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Code Disclaimer" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CS2550Projects$test.coverage" NAME="test Coverage Results" MODIFIED="1716423357464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CS2550Projects" />
-    <SUITE FILE_PATH="coverage/CS2550Project$test.coverage" NAME="test Coverage Results" MODIFIED="1717978965307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/CS2550Project$test.coverage" NAME="test Coverage Results" MODIFIED="1722546933057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>

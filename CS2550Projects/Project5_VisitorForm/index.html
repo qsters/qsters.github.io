@@ -1,7 +1,7 @@
 <!--
 Project:  Project 5-Personal Web Site-Visitor Form Validation-Refactor JS
 Name: Quinton Grant
-Submitted: TODO
+Submitted: 08/01/2024
 
 I declare that the following source code was written by me, or provided
 by the instructor for this project. I understand that copying source
@@ -10,9 +10,11 @@ or leaving my code on a public web site constitutes cheating.
 I acknowledge that  If I am found in violation of this policy this may result
 in a zero grade, a permanent record on file and possibly immediate failure of the class.
 
-Reflection (1-2 paragraphs): TODO
+Reflection (1-2 paragraphs): This project of them all was the most difficult one so far for me. I think this is mainly due to
+the scope of the changes being made, and just the size of the project overall. I really appreciated how the project started with
+a refactoring with JS, because that caused me to refactor everything a bit. Which definitely made things easier.
 -->
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -28,6 +30,7 @@ Reflection (1-2 paragraphs): TODO
   <a href="#home">Home</a>
   <a href="#news">News</a>
   <a href="#upcoming">Upcoming</a>
+  <a href="#visitor-form">Visitor Form</a>
   <button id="themeToggle" class="theme-toggle">Toggle Dark Theme</button>
 </nav>
 <main>
@@ -124,12 +127,104 @@ Reflection (1-2 paragraphs): TODO
       </article>
     </div>
   </section>
+
+  <section id="visitor-form" style="display: none">
+    <div class="main-content">
+      <h1>Visitor Form</h1>
+      <div id=success" class="successMsg" style="display:none">
+        Thank you for logging your visit!
+      </div>
+
+      <form id="myform" novalidate method="GET" action="https://wp.zybooks.com/form-viewer.php">
+        <ul class="flex">
+          <li class="section-display">
+            <label for="first-name">First Name</label>
+            <input type="text" id="first-name" name="first-name" placeholder="Enter your first name here">
+            <div class="errorMsg"></div>
+          </li>
+
+          <li >
+            <label for="last-name">Last Name</label>
+            <input type="text"  id="last-name" name="last-name" placeholder="Enter your last name here">
+            <div class="errorMsg"></div>
+          </li>
+
+          <li >
+            <label for="address">Address</label>
+            <input type="text"  id="address" name="address" placeholder="Enter your address here">
+            <div class="errorMsg"></div>
+          </li>
+
+          <li >
+            <label for="city">City</label>
+            <input type="text"  id="city" name="city" placeholder="Enter your city here">
+            <div class="errorMsg"></div>
+          </li>
+
+          <li >
+            <label for="state">State</label>
+            <input type="text"  id="state" name="state" placeholder="Enter your state here">
+            <div class="errorMsg"></div>
+          </li>
+
+          <li >
+            <label for="zip">Zip</label>
+            <input type="text"  id="zip" name="zip" placeholder="Enter your zip code here">
+            <div class="errorMsg"></div>
+          </li>
+
+          <li >
+            <label for="email">Email</label>
+            <input type="text" id="email" name="email" placeholder="Enter your email here">
+            <div class="errorMsg"></div>
+          </li>
+
+          <li>
+            <label for="phone">Phone</label>
+            <input class="is-invalid" type="text" id="phone" placeholder="Enter your phone here">
+            <div class="errorMsg"></div>
+          </li>
+
+          <li>
+            <h2>How did you find my page</h2>
+          </li>
+
+          <li>
+            <input type="checkbox" id='google' name='find-page' value="google">
+            <label for="google">Google Search</label>
+          </li>
+
+          <li>
+            <input type="checkbox" id='friend' name='find-page' value="friend">
+            <label for="friend">Friend</label>
+          </li>
+
+          <li>
+            <input type="checkbox" id='newspaper' name='find-page' value="newspaper">
+
+            <label for="newspaper">News Paper</label>
+            <div class="errorMsg"></div>
+          </li>
+
+          <li>
+            <label for="comment">Comments</label>
+            <textarea rows="4" id="comment" placeholder="Enter your comments here"></textarea>
+          </li>
+
+          <li>
+            <button type="submit">Send</button>
+          </li>
+        </ul>
+      </form>
+    </div>
+  </section>
 </main>
 <footer>
   <p>© 2024 Quinton Grant. All rights reserved.</p>
 </footer>
 <script defer src="js/page.js"></script>
 <script defer src="js/theme.js"></script>
+<script defer src="js/validation.js"></script>
 <script defer src="js/main.js"></script>
 </body>
 </html>

@@ -8,8 +8,6 @@ code from any other source, providing source code to another student,
 or leaving my code on a public web site constitutes cheating.
 I acknowledge that  If I am found in violation of this policy this may result
 in a zero grade, a permanent record on file and possibly immediate failure of the class.
-
-Reflection (1-2 paragraphs): TODO
 */
 function initPage() {
     const links = document.querySelectorAll('.navbar a');

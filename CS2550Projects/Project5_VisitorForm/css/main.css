@@ -117,8 +117,8 @@ main {
     padding: 20px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    max-width: 100%; /* Ensures content doesn't expand beyond bounds */
-    overflow: hidden; /* Prevents any overflow from the content */
+    max-width: 100%;
+    overflow: hidden;
 }
 
 .main-content article:hover {
@@ -143,6 +143,103 @@ footer {
     text-align: center;
     padding: 10px 0;
 }
+
+/* Visitor Form Section */
+#visitor-form {
+    grid-area: main;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+#visitor-form .main-content {
+    width: 100%;
+    max-width: 500px;
+    background: white;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border-radius: 5px;
+}
+
+#visitor-form ul {
+    list-style-type: none;
+}
+
+#visitor-form li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+#visitor-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+#visitor-form input[type="text"],
+#visitor-form input[type="email"],
+#visitor-form textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#visitor-form input[type="checkbox"] {
+    margin-right: 5px;
+    flex-shrink: 0;
+}
+
+#visitor-form label {
+    margin-right: 5px;
+}
+
+#visitor-form button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#visitor-form button:hover {
+    background-color: #555;
+}
+
+.errorMsg {
+    margin-left: 5px;
+    color: red;
+}
+
+#myform .is-valid {
+    border: 2px solid green !important;
+}
+
+#myform .is-invalid {
+    border: 2px solid red !important;
+}
+
+/* Responsive adjustments for visitor form */
+@media (max-width: 768px) {
+    #visitor-form .main-content {
+        padding: 10px;
+    }
+
+    #visitor-form label {
+        margin-bottom: 0px;
+    }
+
+    #visitor-form input[type="text"],
+    #visitor-form input[type="email"],
+    #visitor-form textarea,
+    #visitor-form button {
+        padding: 6px;
+    }
+}
+
 
 
 

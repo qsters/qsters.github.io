@@ -39,3 +39,30 @@ main {
 footer {
     background-color: #222;
 }
+
+#visitor-form {
+    background-color: #181818;
+}
+
+#visitor-form .main-content {
+    background-color: #282828;
+    box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1);
+}
+
+#visitor-form label,
+#visitor-form button {
+    color: #e0e0e0;
+    border-color: #444;
+}
+
+#visitor-form input[type="checkbox"] {
+    color: #e0e0e0;
+}
+
+#visitor-form button {
+    background-color: #555;
+}
+
+#visitor-form button:hover {
+    background-color: #777;
+}
