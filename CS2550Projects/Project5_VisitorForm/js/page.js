@@ -33,6 +33,17 @@ function initPage() {
         });
     });
 
-    // Display the 'home' section by default
-    showSection('home');
+    function navigateFromURL() {
+        const currentHash = window.location.hash.substring(1);
+        if (currentHash) {
+            showSection(currentHash);
+        } else {
+            showSection('home');
+        }
+    }
+
+    navigateFromURL();  // Call on initial load
+
+    // Optional: respond to hash changes without reloading the page
+    window.addEventListener('hashchange', navigateFromURL);
 }
