@@ -8,15 +8,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="500c39fa-96ed-41ac-83ba-b17b4ccd8219" name="Changes" comment="Added Code Disclaimer">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/css/theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/css/theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/index.html" afterDir="false" />
+    <list default="true" id="500c39fa-96ed-41ac-83ba-b17b4ccd8219" name="Changes" comment="Finished Project 5">
       <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/js/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/js/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/js/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/js/theme.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/js/validation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/js/validation.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +136,7 @@
       <workItem from="1719169463282" duration="6947000" />
       <workItem from="1719533932081" duration="5266000" />
       <workItem from="1721871042631" duration="164000" />
-      <workItem from="1722545278526" duration="9835000" />
+      <workItem from="1722545278526" duration="10153000" />
     </task>
     <task id="LOCAL-00001" summary="Created Project 2">
       <option name="closed" value="true" />
@@ -281,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722547726187</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Finished Project 5">
+      <option name="closed" value="true" />
+      <created>1722569428083</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1722569428083</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,7 +316,8 @@
     <MESSAGE value="Started Project 5" />
     <MESSAGE value="Refactored JS" />
     <MESSAGE value="Added Code Disclaimer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Code Disclaimer" />
+    <MESSAGE value="Finished Project 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Project 5" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CS2550Projects$test.coverage" NAME="test Coverage Results" MODIFIED="1716423357464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CS2550Projects" />
