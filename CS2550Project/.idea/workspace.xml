@@ -8,9 +8,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="500c39fa-96ed-41ac-83ba-b17b4ccd8219" name="Changes" comment="Fixed default is-valid on phone">
+    <list default="true" id="500c39fa-96ed-41ac-83ba-b17b4ccd8219" name="Changes" comment="Made page urls work">
+      <change afterPath="$PROJECT_DIR$/../CS2550Projects/zybooks_final/cold.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS2550Projects/zybooks_final/cool.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS2550Projects/zybooks_final/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS2550Projects/zybooks_final/warm.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/js/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/../CS2550Projects/Project5_VisitorForm/js/page.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,11 +23,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="TypeScript File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -82,11 +85,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../CS2550Projects/zybooks_final" />
       <recent name="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/css" />
       <recent name="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/imgs" />
       <recent name="$PROJECT_DIR$/../CS2550Projects/Project3_ResposiveWebsite/js" />
       <recent name="$PROJECT_DIR$/../CS2550Projects" />
-      <recent name="$PROJECT_DIR$/../CS2550Projects/Project1_AboutMePage" />
     </key>
   </component>
   <component name="RunManager">
@@ -137,7 +140,9 @@
       <workItem from="1719169463282" duration="6947000" />
       <workItem from="1719533932081" duration="5266000" />
       <workItem from="1721871042631" duration="164000" />
-      <workItem from="1722545278526" duration="10706000" />
+      <workItem from="1722545278526" duration="12371000" />
+      <workItem from="1722825501833" duration="4039000" />
+      <workItem from="1724161408084" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="Created Project 2">
       <option name="closed" value="true" />
@@ -291,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722570302486</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Made page urls work">
+      <option name="closed" value="true" />
+      <created>1722570683167</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1722570683167</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,7 +340,8 @@
     <MESSAGE value="Added Code Disclaimer" />
     <MESSAGE value="Finished Project 5" />
     <MESSAGE value="Fixed default is-valid on phone" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed default is-valid on phone" />
+    <MESSAGE value="Made page urls work" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made page urls work" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CS2550Projects$test.coverage" NAME="test Coverage Results" MODIFIED="1716423357464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../CS2550Projects" />
