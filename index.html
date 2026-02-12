@@ -37,7 +37,7 @@
 
           <ul class="meta">
             <li>Pleasant Grove, Utah</li>
-            <li><a href="mailto:qqgrant@gmail.com">Email Me</a></li>
+            <li><span id="email"></span></li>
           </ul>
 
           <div class="link-row">
@@ -491,6 +491,12 @@
     <script>
       // Tiny no-dependency footer year helper
       document.getElementById("year").textContent = new Date().getFullYear();
+      
+      // Email obfuscation to prevent scrapers
+      const user = "qqgrant";
+      const domain = "gmail.com";
+      document.getElementById("email").innerHTML =
+        `<a href="mailto:${user}@${domain}">Email Me</a>`;
     </script>
   </body>
 </html>
