@@ -184,17 +184,22 @@
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    padding: 9px 12px;
-    background: var(--btn);
-    border: 1px solid var(--border);
+    padding: 10px 16px;
+    background: linear-gradient(135deg, rgba(121, 184, 255, 0.15), rgba(121, 184, 255, 0.08));
+    border: 1.5px solid var(--accent);
     border-radius: 999px;
     color: var(--text);
     text-decoration: none;
     font-weight: 600;
     font-size: 0.95rem;
+    box-shadow: 0 2px 8px rgba(121, 184, 255, 0.15);
+    transition: all 0.2s ease;
   }
   .btn:hover {
-    background: var(--btnHover);
+    background: linear-gradient(135deg, rgba(121, 184, 255, 0.25), rgba(121, 184, 255, 0.15));
+    border-color: #9bc5ff;
+    box-shadow: 0 4px 12px rgba(121, 184, 255, 0.3);
+    transform: translateY(-1px);
     text-decoration: none;
   }
   
@@ -282,6 +287,15 @@
   
   .muted {
     color: var(--muted);
+  }
+
+  .shipped-badge {
+    color: var(--accent);
+    font-weight: 600;
+    background: rgba(121, 184, 255, 0.12);
+    padding: 2px 6px;
+    border-radius: 6px;
+    border: 1px solid rgba(121, 184, 255, 0.3);
   }
   
   .tight {
